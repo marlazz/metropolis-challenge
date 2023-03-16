@@ -40,10 +40,10 @@ function App() {
             )}
           </div>
           <div className="icons-container">
-            <BiSearch />
-            <CgProfile />
-            <BiHeart />
-            <BsBag />
+            <BiSearch className="icons"/>
+            <CgProfile className="icons"/>
+            <BiHeart className="icons"/>
+            <BsBag className="icons"/>
           </div>
         </div>
         <div className="logo">
